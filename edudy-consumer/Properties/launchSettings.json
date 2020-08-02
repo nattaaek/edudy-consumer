@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "edudy_consumer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
